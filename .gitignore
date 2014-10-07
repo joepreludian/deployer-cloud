@@ -1,0 +1,6 @@
+.idea
+.vagrant
+*.pyo
+*.pyc
+env
+docs/_build
